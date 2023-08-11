@@ -52,14 +52,16 @@ ul,ol{
     font-family: ;
     font-size: 22px;
     font-weight: 600;
-    color: #c7b299;
+    /* color: #c7b299; */
+    color: #5e5858;
     padding-bottom: 5px;
 }
 .iteam-text p{
     font-family: ;
     font-size: 14px;
     font-weight: 400;
-    color: #d1d1d1; 
+    /* color: #d1d1d1;  */
+    color: #928b8b; 
 }
 .iteam-text:after{
     position: absolute;
